@@ -1,6 +1,6 @@
 Nasir Bashir
 
-Research interests: (i) statistical methods, (ii) machine learning, (iii) oral epidemiology
+Statistics, both application and methodology
 
 Contact: nbashir562@gmail.com
 
