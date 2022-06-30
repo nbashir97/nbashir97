@@ -1,3 +1,1 @@
-Nasir Bashir
-
-Contact: nbashir562@gmail.com
+nbashir562@gmail.com
